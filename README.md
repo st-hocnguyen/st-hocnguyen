@@ -15,14 +15,15 @@ val hoc081098 = developer {
         company = SupremeTech
         role = "Senior Android Engineer"
     }
-
     tech("Kotlin", "Android", "Gradle", "KMP", "Compose", "iOS", "Flutter", "NestJS")
-
     maintainers("rxdart", "FlowExt", "kmp-viewmodel", "solivagant")
-
     links {
         linkedIn = "https://www.linkedin.com/in/hoc081098/"
         gitHub = "https://github.com/hoc081098"
     }
 }
 ```
+
+---
+
+[![Check out hoc081098's profile on stardev.io](https://stardev.io/developers/hoc081098/badge/languages/country.svg)](https://stardev.io/developers/hoc081098)
